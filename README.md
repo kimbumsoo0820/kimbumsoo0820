@@ -24,7 +24,7 @@
 
 ---------------------------------------  
   <div align ="center">
-  BLOG
+  🎈BLOG
   </div>
   
   <div align ="center">
@@ -33,7 +33,7 @@
 
 ---------------------------------------  
   <div align ="center">
-  ME
+ 🙋‍♂️Me
   </div>
   
   <div align ="center">
