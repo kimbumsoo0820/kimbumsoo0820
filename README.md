@@ -1,4 +1,4 @@
-### WELCOME 👋
+### <p align="center"> WELCOME 👋 </p>
 
 # <p align="center"> 💻TECH STACK💻 </p>
 
@@ -20,4 +20,22 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  </div>
+
+---------------------------------------  
+  <div align ="center">
+  BLOG
+  </div>
+  
+  <div align ="center">
+  <a href="https://velog.io/@kbs2082"> <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/> </a>
+  </div>
+
+---------------------------------------  
+  <div align ="center">
+  ME
+  </div>
+  
+  <div align ="center">
+  <a href="https://www.instagram.com/kbumsoo_0820/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> </a>
   </div>
