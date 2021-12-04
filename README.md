@@ -1,6 +1,6 @@
 ### <p align="center"> WELCOME 👋 </p>
 
-# <p align="center"> 💻TECH STACK💻 </p>
+<!-- # <p align="center"> 💻TECH STACK💻 </p> -->
 <p align="center"> Techs that I've used at least once </p>
 <div align ="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
